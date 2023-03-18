@@ -16,7 +16,8 @@
     color: black;
     border: none;
     padding: 7px 30px;
-    border-top-right-radius: 10px;    
+    border-top-right-radius: 10px;  
+    cursor: pointer;  
 }
 
 .button:hover{

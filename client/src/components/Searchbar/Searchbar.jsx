@@ -20,7 +20,7 @@ function SearchBar() {
         <div className={s.searchBar}>
            
                     <input className={s.input} type="text" onChange={onInputChange} placeholder="Videogame name" />
-                    <button className={s.button} type="submit" onClick={onSubmit} >Search</button>
+                    <button className={s.button} type="submit" onClick={onSubmit}>Search</button>
                 
         </div>
       );
